@@ -143,8 +143,9 @@ hr {
     color: hsl(178, 100%, 50%);
 }
 footer { 
+    font-family: Outfit;
     color:hsl(200, 1%, 41%);
-    font-size: 11px; 
+    font-size: 1.1rem; 
     text-align: center; }
 
 
